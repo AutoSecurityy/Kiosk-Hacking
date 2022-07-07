@@ -1,1 +1,2 @@
 # Kiosk-Hacking
+Checklist
