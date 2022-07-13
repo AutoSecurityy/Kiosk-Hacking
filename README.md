@@ -1,2 +1,2 @@
 # Kiosk-Hacking
-Checklist
+Checklist for Pentesting purpose only.
